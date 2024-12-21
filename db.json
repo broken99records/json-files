@@ -1,0 +1,39 @@
+ {
+"users": [
+    {
+      id: 1,
+      name: "Neil Sims",
+      email: "email@flowbite.com",
+      amount: 320,
+      details: "Request details for Neil Sims - Pending approval",
+    },
+    {
+      id: 2,
+      name: "Bonnie Green",
+      email: "email@flowbite.com",
+      amount: 3467,
+      details: "Request details for Bonnie Green - In progress",
+    },
+    {
+      id: 3,
+      name: "Michael Gough",
+      email: "email@flowbite.com",
+      amount: 67,
+      details: "Request details for Michael Gough - Completed",
+    },
+    {
+      id: 4,
+      name: "Thomas Lean",
+      email: "email@flowbite.com",
+      amount: 2367,
+      details: "Request details for Thomas Lean - Under review",
+    },
+    {
+      id: 5,
+      name: "Lana Byrd",
+      email: "email@flowbite.com",
+      amount: 367,
+      details: "Request details for Lana Byrd - Awaiting input",
+    }
+]
+}
